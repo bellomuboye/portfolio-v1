@@ -162,7 +162,7 @@ footer svg {
 @media (max-width: 768px) {
 	main .content {
     max-width: 90%;
-}
+	}
 main * {
     margin: 0;
     font-size: 8vw;
